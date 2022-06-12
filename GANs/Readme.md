@@ -1,5 +1,5 @@
 
-Jounal1 : https://arxiv.org/pdf/1701.07875.pdf
+Journal1 : https://arxiv.org/pdf/1701.07875.pdf
 
 Journal2 : https://openreview.net/pdf?id=B1QRgziT-
 
