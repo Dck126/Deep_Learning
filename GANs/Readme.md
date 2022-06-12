@@ -1,4 +1,3 @@
-resource journal
 
 Jounal1 : https://arxiv.org/pdf/1701.07875.pdf
 
